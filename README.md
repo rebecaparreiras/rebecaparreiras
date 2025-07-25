@@ -1,6 +1,7 @@
 ## Rebeca Parreiras | Desenvolvedora Front-end
 
-<a href="https://www.linkedin.com/in/rebeca-parreiras" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/rebeca-parreiras" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/rebecaparreiras/rebecaparreiras/blob/main/linkedin-box-fill.svg" />
+<a href="https://www.rebecaparreiras.com.br" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/rebecaparreiras/rebecaparreiras/blob/main/article-fill.svg" />
 
 <br><br>
 
